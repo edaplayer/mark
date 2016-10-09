@@ -2,20 +2,8 @@ Mark : Highlight several words in different colors simultaneously. (#1238 contin
 
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=2666
 
-
-created by
-Ingo Karkat
- 
-script type
-utility
- 
-description
-DESCRIPTION 
-
-This plugin adds mappings and a :Mark command to highlight several words in 
-different colors simultaneously, similar to the built-in 'hlsearch' 
-highlighting of search results and the * command. For example, when you 
-are browsing a big program file, you could highlight multiple identifiers in 
+This plugin adds mappings and a :Mark command to highlight several words in different colors simultaneously, similar to the built-in 'hlsearch' 
+highlighting of search results and the * command. For example, when you are browsing a big program file, you could highlight multiple identifiers in 
 parallel. This will make it easier to trace the source code. 
 
 This script is written to highlight several words in different colors simultaneously. For example, when you are browsing a big program file, you could highlight some key variables. This will make it easier to trace the source code.
